@@ -1,0 +1,24 @@
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+webcolors==24.11.1
+webencodings==0.5.1
+websocket-client @ file:///Users/ec2-user/ci_py311/websocket-client_1678317758506/work
+Werkzeug @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_fegt3z60s3/croot/werkzeug_1679489762631/work
+whatthepatch @ file:///Users/ec2-user/ci_py311/whatthepatch_1678379478749/work
+widgetsnbextension==4.0.13
+wordcloud==1.9.3
+wrapt @ file:///Users/ec2-user/ci_py311/wrapt_1678323111850/work
+wurlitzer @ file:///Users/ec2-user/ci_py311/wurlitzer_1678390004531/work
+xarray @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_ba3w2rvoxd/croot/xarray_1689041477488/work
+xgboost==2.1.1
+XlsxWriter==3.2.0
+xlwings @ file:///Users/ec2-user/ci_py311_2/xlwings_1679338568565/work
+xyzservices @ file:///Users/ec2-user/ci_py311/xyzservices_1678325391212/work
+yapf @ file:///tmp/build/80754af9/yapf_1615749224965/work
+yarl @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_2b7v_sl8vw/croot/yarl_1701105138808/work
+ydata-profiling==4.11.0
+yfinance==0.2.44
+zict @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_ed6_o78f2r/croot/zict_1695832864198/work
+zipp @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_c8z3y7z1g1/croot/zipp_1704206911704/work
+zope.interface @ file:///Users/ec2-user/ci_py311/zope.interface_1678379536727/work
+zstandard @ file:///Users/ec2-user/ci_py311_2/zstandard_1679338593428/work
+>>>>>>> 98e0ad8 (Initial commit)
